@@ -1,6 +1,4 @@
 name             'iis-packages-server'
-author			 'Steve Dillon'
-author_email	 'steve.dillon@yaponcha.com'
 maintainer       'Citrix Systems, inc'
 maintainer_email 'yeung.siu@citrix.com'
 license          'All rights reserved'
