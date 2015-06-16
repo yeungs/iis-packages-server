@@ -1,6 +1,6 @@
 iis-packages-server Cookbook
 ========================
-This cookbooks creates and configure a HTTP site on IIS in Windows 2012 R2 Serevr. This is serve files (ISO, MSI, exe, etc… ) on a Windows UNC network share path to a HTTP site. In Chef's "windows_package" resource it is easier to use a HTTP URL path then a Windows UNC network share path to reference installers.
+This cookbooks creates and configure a HTTP site on IIS in Windows 2012 R2 Server. This is serve files (ISO, MSI, exe, etc… ) on a Windows UNC network share path to a HTTP site. In Chef's "windows_package" resource it is easier to use a HTTP URL path then a Windows UNC network share path to reference installers.
 
 
 Requirements
